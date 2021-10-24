@@ -1,0 +1,19 @@
+h1 {
+    font-family: "Times New Roman", serif;
+    font-size: 28px;
+    color: limegreen;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    margin: 10%;
+}
+
+p{
+    text-align: justify;
+}
+
+#citacaoBloco {
+    margin-left: 60px;
+}
