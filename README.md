@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Plantas Carnívoras 🦖
 
 Um site informativo sobre plantas carnívoras.
@@ -156,4 +155,3 @@ exclusivas de cada página. Por exemplo, considere esta estrutura de pasta:
 =======
 # ProgramacaoWeb-CEFETMG
 Disciplina de programação web - CefetMG
->>>>>>> fc17d3d9d99bc4d59a5ded56eb7375630dce769e
