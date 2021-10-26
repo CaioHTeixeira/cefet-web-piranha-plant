@@ -17,3 +17,51 @@ p{
 #citacaoBloco {
     margin-left: 60px;
 }
+
+#paragrafoEstilizado {
+    border: 3px solid limegreen;
+    padding: 10px;
+    background-image: url("imagens/fundo.png");
+    background-size: auto;
+}
+
+#subtitulo {
+    font-family: 'Times New Roman', serif;
+    font-size: 22px;
+    color: limegreen;
+}
+
+#armadilhas-succao, #armadilhas-jaula {
+    width: 300px;
+    border: 8px solid limegreen;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#tabela {
+    width: 600px;
+    text-align: center;
+    margin: auto;
+    border-style: solid;
+}
+
+#cabecalho {
+    background-color: black;
+    color: white;
+    border-style: solid;
+}
+
+#celulas {
+    border-style: solid;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+#loja {
+    background-image: url(imagens/desenho-loucao.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
