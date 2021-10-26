@@ -1,8 +1,10 @@
 #tabela {
     width: 600px;
     text-align: center;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
     border: 1px solid black;
+    table-layout: fixed;
 }
 
 #cabecalho {
@@ -12,7 +14,7 @@
 }
 
 #celulas {
-    border-style: solid;
+    border: 1px solid black;
 }
 
 table {
@@ -20,7 +22,7 @@ table {
 }
 
 #loja {
-    background-image: url(imagens/desenho-loucao.jpg);
+    background-image: url(../imagens/desenho-loucao.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }

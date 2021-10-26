@@ -5,6 +5,6 @@
 #paragrafoEstilizado {
     border: 3px solid limegreen;
     padding: 10px;
-    background-image: url("imagens/fundo.png");
+    background-image: url("../imagens/fundo.png");
     background-size: auto;
 }
