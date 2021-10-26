@@ -1,0 +1,26 @@
+#tabela {
+    width: 600px;
+    text-align: center;
+    margin: auto;
+    border: 1px solid black;
+}
+
+#cabecalho {
+    background-color: black;
+    color: white;
+    border-style: solid;
+}
+
+#celulas {
+    border-style: solid;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+#loja {
+    background-image: url(imagens/desenho-loucao.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
